@@ -1,0 +1,26 @@
+include MANIFEST.in
+include LICENSE env_exports README.md requirements.txt
+include config.py customize.py setup.py
+include examples/*
+include examples/AuAu_parametrization/*
+include examples/CH_parametrization/*
+include box/*
+include misc/*
+include param/*
+include param/CC_pi/*
+include param/EurPhysJD_67_38_2013/*
+include param/fixed_parameters/*
+include param/inofficial/*
+include param/MoS-skf/*
+include hotbit/*
+include hotbit/analysis/*
+include hotbit/c/*
+include hotbit/c/old_fortran/*
+include hotbit/containers/*
+include hotbit/coulomb/*
+include hotbit/io/*
+include hotbit/test/*
+include hotbit/parametrization/*
+include hotbit/parametrization/testing/*
+include hotbit/doc/*
+include hotbit/test/examples/*
