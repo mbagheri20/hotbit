@@ -1,4 +1,6 @@
 numpy >= 1.22.3
 scipy >= 1.14.0
 ase >= 3.22.1
+setuptools==73.0.1
+wheel==0.44.0
 
